@@ -79,7 +79,6 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/ntf7595">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ntf7595" />
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=ntf7595&theme=cold"/>
   
 ![DevWintery's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevWintery&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWintery&layout=compact)
